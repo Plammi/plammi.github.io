@@ -2,9 +2,31 @@ body {
   background-color: grey; 
 }
 
+h1 {
+    font-size: 3em;
+    font-family: Arial;
+    text-align: center;
+    font-weight: bold;
+}
+
+h4 {
+    font-size: 2em;
+    font-family: Arial;
+    text-align: center;
+}
+
 img {
     height: 400px;
     width: 200px;
+}
+
+img.interests {
+    height: 400px;
+    width: 200px;
+}
+
+.placeholder {
+    display: inline-block;
 }
 
 td, th {
